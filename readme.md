@@ -1,6 +1,6 @@
 ## **The `data-ptsd-mdmactr` dataset** 📊
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15714852-blue">](https://doi.org/10.5281/zenodo.15714852) !!! replace with actual DOI
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18740439-blue">](https://doi.org/10.5281/zenodo.18740439) 
 
 The `data-ptsd-mdmactr` dataset is a meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf))
 on MDMA therapies for adults with post-traumatic stress disorder.
